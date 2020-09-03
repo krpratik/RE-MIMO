@@ -1,6 +1,9 @@
 # RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection
 
-This repository contains the code for the experiments presented in the RE-MIMO paper. To make it easy to easy to replicate the results, the repository contains separate directories for each of the experiments. For running each of these experiments, please read the separate README.md present inside each of the experiment directory.
+This repository contains the official implementation of the "RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection" paper (arXiv:2007.00140).
+
+
+To make it easy to easy to replicate the results, the repository contains separate directories for each of the experiments. For running each of these experiments, please read the separate README.md present inside each of the experiment directory.
 
 The experiments included in the repository are:
 1. i.i.d. Gaussian Channel experiment on both QAM-16 and QAM-64
